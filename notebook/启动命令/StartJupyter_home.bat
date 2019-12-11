@@ -1,4 +1,4 @@
 @echo off
-F:
-cd F:\我的项目\MyAILearning\notebook
-C:\Users\fx\Anaconda3-5.0\Scripts\jupyter-notebook.exe
+d:
+cd d:\1.我要回珠海\0.实战项目\Machine\notebook
+C:\Users\fangxiang\Anaconda3\Scripts\jupyter-notebook.exe
