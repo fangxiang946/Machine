@@ -1,4 +1,4 @@
-@echo off
-d：
+﻿@echo off
+d:
 cd D:\my\Machine\notebook
-C:\Users\fangxiang\anaconda3\Scripts\jupyter-notebook.exe
+D:\个人学习\python环境\study\Scripts\jupyter-notebook.exe
