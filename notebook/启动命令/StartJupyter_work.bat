@@ -1,4 +1,5 @@
-锘緻echo off
+@echo off
 d:
 cd D:\my\Machine\notebook
-D:\涓汉瀛︿範\python鐜\study\Scripts\jupyter-notebook.exe
+D:\个人学习\python环境\learn\Scripts\jupyter-notebook.exe
+
